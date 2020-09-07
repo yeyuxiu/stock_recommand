@@ -1,0 +1,6 @@
+python == 3.7.2
+requests == 2.220
+parsel == 1.5.2
+asyncio == 3.4.3
+aiohttp == 3.6.2
+urllib3 == 1.25.6
